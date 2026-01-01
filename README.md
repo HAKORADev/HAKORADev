@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 - 🔭 Working on: whatever is good for people
-- 🌱 Learning: what makes better than yesterday
+- 🌱 Learning: what makes me better than yesterday
 - 💬 Ask me about: whatever
 
 ## 🛠️ Tech Stack
