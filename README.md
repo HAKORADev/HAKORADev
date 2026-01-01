@@ -11,13 +11,17 @@
 ## 📊 GitHub Stats
 <div align="center">
 
-[![HAKORA's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HAKORADev&show_icons=true&theme=radical )](https://github.com/anuraghazra/github-readme-stats )
+<!-- GitHub Stats -->
+![HAKORA's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HAKORADev&show_icons=true&theme=radical)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HAKORADev&layout=compact&theme=radical )](https://github.com/anuraghazra/github-readme-stats )
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HAKORADev&layout=compact&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=HAKORADev&theme=radical )](https://git.io/streak-stats )
+<!-- GitHub Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HAKORADev&theme=radical)
 
 </div>
+
 
 ## 📫 Connect
 - Twitter/X: [@HAKORAdev](https://twitter.com/HAKORAdev )
