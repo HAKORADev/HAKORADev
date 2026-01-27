@@ -1,7 +1,7 @@
 # Hi, I'm HAKORA! 👋
 
 ## 👨‍💻 About Me
-- 🔭 Working on: whatever is good for people
+- 🔭 Working on: whatever
 - 🌱 Learning: what makes me better than yesterday
 - 💬 Ask me about: whatever
 
