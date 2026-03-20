@@ -18,7 +18,7 @@
 | [**GameBox**](https://github.com/HAKORADev/GameBox) | All-in-One Web Games Creation & Management Platform with AI-Powered Game Generation |
 | [**Cursor_Flame**](https://github.com/HAKORADev/Cursor_Flame) | Beautiful flame effect that follows your mouse cursor on Windows/Linux |
 | [**BlurMe**](https://github.com/HAKORADev/BlurMe) | Cross-platform screen blur overlay for instant privacy - toggle blur with a hotkey |
-| [**Karrot**](https://github.com/HAKORADev/Karrot) | KDE Desktop Narrator - Capture screen text and listen with AI-powered TTS/VC |
+| [**Karrot**](https://github.com/HAKORADev/Karrot) | KDE Desktop Narrator - Capture screen text and listen with VODER Engine AI-powered TTS/VC |
 | [**KView**](https://github.com/HAKORADev/KView) | KDE Fast File Previewer - Quick preview for images, videos, audio, text, PDFs, archives |
 
 ### Other Stuff
