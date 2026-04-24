@@ -4,7 +4,6 @@
 - 🔭 Working on: whatever
 - 🌱 Learning: what makes me better than yesterday
 - 💬 Ask me about: whatever, or don't
-- 👨🏻‍🔧 Your beloved pipewirer!
 ---
 
 ## 🛠️ What I Made
