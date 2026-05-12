@@ -16,6 +16,7 @@
 | [**IMDER**](https://github.com/HAKORADev/IMDER) | Interactive image blender that creates smooth animations blending pixels between images |
 | [**Klarity**](https://github.com/HAKORADev/Klarity) | AI-powered image & video restoration — denoise, deblur, upscale, and frame generation |
 | [**GameBox**](https://github.com/HAKORADev/GameBox) | All-in-One Web Games Creation & Management Platform with AI-Powered Game Generation |
+| [**ASCIIDEIA**](https://github.com/HAKORADev/ASCIIDEIA) | ASCII Art Media Converter & Player — images/videos to terminal ASCII art, colored rendering, interactive playback |
 | [**Cursor_Flame**](https://github.com/HAKORADev/Cursor_Flame) | Beautiful flame effect that follows your mouse cursor on Windows/Linux |
 | [**BlurMe**](https://github.com/HAKORADev/BlurMe) | Cross-platform screen blur overlay for instant privacy - toggle blur with a hotkey |
 | [**Karrot**](https://github.com/HAKORADev/Karrot) | KDE Desktop Narrator - Capture screen text and listen with VODER Engine AI-powered TTS/VC |
