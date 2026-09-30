@@ -27,6 +27,7 @@
 
 | Repo | Description |
 |------|-------------|
+| [**Cards_Battlers_Playgrounds**](https://github.com/HAKORADev/Cards_Battlers_Playgrounds) | Card-battle playground where simulated AI characters live, duel and trade in a data-driven world - in-progress, may be simplified and ported to Godot as a cards-focused dueling game |
 | [**Python_Game_Box_PGB**](https://github.com/HAKORADev/Python_Game_Box_PGB) | Collection of classic Flash games rebuilt with pure Python |
 | [**ManjaroWizard**](https://github.com/HAKORADev/ManjaroWizard) | Interactive post-installation setup wizard for Manjaro Linux |
 | [**facebook-ai**](https://github.com/HAKORADev/facebook-ai) | PyQt5 Facebook simulation with autonomous AI agents powered by Gemini and LangChain |
