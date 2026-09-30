@@ -14,8 +14,8 @@
 |------|-------------|
 | [**VODER**](https://github.com/HAKORADev/VODER) | Voice Operation and Design Engine with Reproduction - AI-powered Voice Platform |
 | [**GOGABox**](https://github.com/HAKORADev/GOGABox) | Open-source game box for Android and Windows — one small app, your games as plain folders beside it: add, share or mod. No ads, no accounts, no internet |
-| [**IMDER**](https://github.com/HAKORADev/IMDER) | Interactive image blender that creates smooth animations blending pixels between images |
 | [**Klarity**](https://github.com/HAKORADev/Klarity) | AI-powered image & video restoration — denoise, deblur, upscale, and frame generation |
+| [**IMDER**](https://github.com/HAKORADev/IMDER) | Interactive image blender that creates smooth animations blending pixels between images |
 | [**GameBox**](https://github.com/HAKORADev/GameBox) | All-in-One Web Games Creation & Management Platform with AI-Powered Game Generation |
 | [**ASCIIDEIA**](https://github.com/HAKORADev/ASCIIDEIA) | ASCII Art Media Converter & Player — images/videos to terminal ASCII art, colored rendering, interactive playback |
 | [**Cursor_Flame**](https://github.com/HAKORADev/Cursor_Flame) | Beautiful flame effect that follows your mouse cursor on Windows/Linux |
