@@ -15,8 +15,9 @@
 | [**VODER**](https://github.com/HAKORADev/VODER) | Voice Operation and Design Engine with Reproduction - AI-powered Voice Platform |
 | [**GOGABox**](https://github.com/HAKORADev/GOGABox) | Open-source game box for Android and Windows — one small app, your games as plain folders beside it: add, share or mod. No ads, no accounts, no internet |
 | [**Klarity**](https://github.com/HAKORADev/Klarity) | AI-powered image & video restoration — denoise, deblur, upscale, and frame generation |
-| [**IMDER**](https://github.com/HAKORADev/IMDER) | Interactive image blender that creates smooth animations blending pixels between images |
 | [**GameBox**](https://github.com/HAKORADev/GameBox) | All-in-One Web Games Creation & Management Platform with AI-Powered Game Generation |
+| [**IMDER**](https://github.com/HAKORADev/IMDER) | Interactive image blender that creates smooth animations blending pixels between images |
+| [**Neonify**](https://github.com/HAKORADev/Neonify) | Neon edge-art renderer for images and videos — electric, spectrum and spatial glow palettes with audio-reactive rendering, in one small native app |
 | [**ASCIIDEIA**](https://github.com/HAKORADev/ASCIIDEIA) | ASCII Art Media Converter & Player — images/videos to terminal ASCII art, colored rendering, interactive playback |
 | [**Cursor_Flame**](https://github.com/HAKORADev/Cursor_Flame) | Beautiful flame effect that follows your mouse cursor on Windows/Linux |
 | [**BlurMe**](https://github.com/HAKORADev/BlurMe) | Cross-platform screen blur overlay for instant privacy - toggle blur with a hotkey |
